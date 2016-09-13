@@ -1,0 +1,17 @@
+{
+  "name": "lazyLoading",
+  "authors": [
+    "Brett Stephen <igadget777@gmail.com>"
+  ],
+  "description": "",
+  "main": "app.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

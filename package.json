@@ -1,0 +1,15 @@
+{
+  "name": "lazyloading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Stephen",
+  "license": "ISC",
+  "devDependencies": {
+    "jscs": "^3.0.7",
+    "jshint": "^2.9.3"
+  }
+}
